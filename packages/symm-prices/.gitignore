@@ -1,0 +1,13 @@
+dist
+node_modules
+worker
+package-lock.json
+yarn.lock
+.cargo-ok
+
+# Output of 'npm pack'
+*.tgz
+*.pnp.cjs
+*.pnp.loader.mjs
+.yarn
+.DS_Store
